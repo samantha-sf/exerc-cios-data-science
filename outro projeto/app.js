@@ -3,6 +3,6 @@ let linguagensDeProgramação = ['JavaScript','C','C++', 'Kotlin','Python'];
 linguagensDeProgramação.push('GoLang','Java','Ruby');
 
 //lista com 3 nomes
-let nameList = ['Samantha', 'Theo', 'Thales'];
+let nameList = ['Samantha', 'Theo', 'Thales', 'Glauton'];
 console.log(nameList[0]);
 
